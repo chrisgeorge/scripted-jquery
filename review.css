@@ -1,0 +1,28 @@
+.animal {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    font-size: 36px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.animals {
+    margin-bottom: 50px;
+}
+
+.inputField {
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+input {
+    font-size: 15px;
+}
+
+button {
+    font-size: 15px;
+}

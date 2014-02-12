@@ -6,12 +6,16 @@
     
     font-size: 36px;
     background-color: black;
-    color: white;
+    color: blue;
     text-align: center;
 }
 
+#animal1 { background-color: red; }
+#animal2 { background-color: yellow; }
+#animal3 { background-color: gray; }
+
 .animals {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .inputField {
@@ -25,4 +29,11 @@ input {
 
 button {
     font-size: 15px;
+}
+
+.buttonSection { margin-top: 30px; }
+
+#randomAnimal {
+    margin-top: 10px;
+    font-size: 36px;
 }
